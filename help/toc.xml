@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<toc version="1.0">
+   <tocitem text="Inicio" target="aplicacion">
+      <tocitem text="Curso" target="curso"/>
+      <tocitem text="Matricula" target="matricula"/>
+      <tocitem text="Alumnos" target="alumnos"/>
+      <tocitem text="Informe1" target="informe1"/>
+      <tocitem text="Informe2" target="informe2"/>
+      <tocitem text="Informe3" target="informe3"/>
+   </tocitem>
+</toc>

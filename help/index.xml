@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<!DOCTYPE index
+PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp Index Version 1.0//EN"
+"http://java.sun.com/products/javahelp/index_1_0.dtd">
+<index version="1.0">
+   <indexitem text="Sistema de ayuda JavaHelp" target="aplicacion"/>
+   <indexitem text="Curso" target="curso"/>
+   <indexitem text="Matricula" target="matricula"/>
+   <indexitem text="Alumnos" target="alumnos"/>
+   <indexitem text="Informe 1" target="informe1"/>
+   <indexitem text="Informe 2" target="informe2"/>
+   <indexitem text="Informe 3" target="informe3"/>
+</index>
